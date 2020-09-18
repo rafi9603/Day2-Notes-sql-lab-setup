@@ -11,13 +11,7 @@ Code Version: 1.0
 
 ## Download the Code :
 ``` 
-git clone https://github.com/anir0y/verzeo-webapp 
+https://github.com/rafi9603/Day2-Notes-sql-lab-setup.git 
 ```
-## Configuration:
-Follow the Classroom Video instruction. 
-
-## TODO:
-1. Write the text version on Video instruction on how to configure [X]
-2. create a seperate Video instruction [X]
 
 ---
