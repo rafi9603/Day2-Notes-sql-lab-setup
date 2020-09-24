@@ -97,6 +97,6 @@ body {
 </div>
  
 <div class="footer">
-  <p>Code with ❤️ by @anir0y </p>   
+  <p>Code with ❤️ by @Rafi </p>   
 </body>
 </html>
